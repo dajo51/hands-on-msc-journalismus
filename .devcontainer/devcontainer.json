@@ -1,0 +1,8 @@
+{
+    "name": "Workshop Environment",
+    "extensions": [
+      "Codeium.codeium"
+    ],
+    "postCreateCommand": "echo 'Dev container setup complete.'"
+}
+  
